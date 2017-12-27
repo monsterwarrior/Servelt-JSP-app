@@ -5,4 +5,4 @@
  * @author sk
  *
  */
-package com.org.servlets;
+package com.org.ping;

@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>appOne</groupId>
-  <artifactId>helloworld</artifactId>
+  <groupId>servelt-jsp-lets-start</groupId>
+  <artifactId>servelt-jsp-lets-start</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>helloworld</name>
+  <name>servelt-jsp-lets-start Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -43,10 +43,9 @@
     <artifactId>javax.servlet.jsp.jstl</artifactId>
     <version>1.2.4</version>
 </dependency>
-
-
+ 
   </dependencies>
   <build>
-    <finalName>helloworld</finalName>
+    <finalName>servelt-jsp-lets-start</finalName>
   </build>
 </project>

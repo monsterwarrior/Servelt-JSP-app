@@ -10,7 +10,7 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebServlet;
 
-// PingServler
+// Hello PingServler 
 @WebServlet("/ping")
 public class PingServlet implements Servlet {
 
